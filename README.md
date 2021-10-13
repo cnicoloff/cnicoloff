@@ -12,7 +12,8 @@ Past research:
 - Peak finding and data analysis of a prototype dark matter detector
 - Machine vision and calibration of stave assembly at Brookhaven National Laboratory for the ATLAS inner tracker upgrade at CERN 
   - ITk Upgrade: https://inspirehep.net/literature/1614102
-  - Early Slides on the Pixel to Micron Conversion: https://indico.cern.ch/event/648579/#9-catherine
+  - Fast Pixel to Micron Conversion: https://github.com/sciollalab/BNL_ThermomechanicalStave/wiki/Fast-Pixel-to-Micron-Conversion
+  - FFT Skew Detection: https://github.com/sciollalab/BNL_ThermomechanicalStave/wiki/FFT-Skew-Detection
   - Github Repository: https://github.com/sciollalab/BNL_ThermomechanicalStave/wiki
 
 Fun stuff:
