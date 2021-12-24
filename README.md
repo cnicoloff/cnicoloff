@@ -7,7 +7,7 @@ Physics graduate student at the Facility for Rare Isotope Beams, Michigan State 
 C/C++, Python, ROOT, MATLAB, LabVIEW, Mathematica
 
 Current research:
-- Simulation of complex charged particle interactions inside ion traps
+- Developing a simulator to accurately model complex charged particle interactions inside ion traps
   - arXiv: "Particle-in-Cell Techniques for the Study of Space Charge Effects in the Advanced Cryogenic Gas Stopper" https://arxiv.org/abs/2012.05117 (Published in Nuclear Instruments and Methods in Physics Research Section B: Volume 496, 1 June 2021)
 
 Past research:
