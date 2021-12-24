@@ -20,7 +20,7 @@ Past research:
   - Github Repository: https://github.com/sciollalab/BNL_ThermomechanicalStave/wiki
 
 Fun stuff:
-- Built a Geiger counter from scratch and sent it up on a weather balloon to measure atmospheric radiation
+- Built a Geiger counter from scratch and sent it up on a weather balloon to measure atmospheric radiation: https://cnicolof.wixsite.com/star
 
 <!---
 cnicoloff/cnicoloff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
